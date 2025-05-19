@@ -1,0 +1,8 @@
+[
+    {
+        "info": "no hyphens: phrases are separted by underscores"
+    },
+    {
+        "info": "no NPC variables: you have to initialize variables before using them"
+    }
+]
