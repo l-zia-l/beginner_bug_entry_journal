@@ -20,12 +20,12 @@ This is a lightweight Python script for logging bugs and their solutions in a ne
    git clone https://github.com/YOUR-USERNAME/bug-logger.git
    cd bug-logger
    
-### Run the script:
+   2. Run the script:
 
 python bug_logger.py
-Enter your bug and how you solved it when prompted:
 
-## 💡 Example Entry
+```
+### 💡 Example Entry
 {
   "info": "no NPC variables: you have to initialize variables before using them"
 }
